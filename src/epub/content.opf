@@ -39,6 +39,8 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008118391</meta>
 		<meta property="se:subject">Drama</meta>
+		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">A woman unintentionally kills her demigod husband with a poisoned robe in a desperate attempt to reclaim his love.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Trachiniae&lt;/i&gt; is one of &lt;a href="https://standardebooks.org/ebooks/sophocles"&gt;Sophocles’&lt;/a&gt; lesser-known surviving plays, yet it remains a powerful exploration of fate, suffering, and human fallibility. Though its exact date of composition is uncertain, scholars often place it later in the playwright’s career, possibly between 450 and 425 BCE. The play’s title refers to the women of Trachis, the chorus who witness and reflect on the unfolding catastrophe.&lt;/p&gt;
