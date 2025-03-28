@@ -31,8 +31,7 @@ section[epub|type~="z3998:scene"]{
 /* End dramatis personae */
 
 /* Drama */
-[epub|type~="z3998:drama"] table,
-table[epub|type~="z3998:drama"]{
+[epub|type~="z3998:drama"] table{
 	border-collapse: collapse;
 	margin: 1em auto;
 	width: 100%;
@@ -71,7 +70,6 @@ table[epub|type~="z3998:drama"]{
 }
 
 [epub|type~="z3998:stage-direction"] [epub|type~="z3998:persona"],
-em [epub|type~="z3998:persona"],
 i [epub|type~="z3998:persona"]{
 	font-style: normal;
 }
@@ -88,11 +86,6 @@ i [epub|type~="z3998:persona"]{
 
 [epub|type~="z3998:persona"]{
 	font-variant: all-small-caps;
-}
-
-section[epub|type~="z3998:scene"] > p{
-	margin: 1em auto;
-	width: 75%;
 }
 /* End drama */
 
@@ -125,28 +118,13 @@ section[epub|type~="z3998:scene"] > p{
 	text-indent: -1em;
 }
 
-p span.i1{
-	padding-left: 2em;
-	text-indent: -1em;
-}
-
 p span.i2{
 	padding-left: 3em;
 	text-indent: -1em;
 }
 
-p span.i3{
-	padding-left: 4em;
-	text-indent: -1em;
-}
-
 p span.i4{
 	padding-left: 5em;
-	text-indent: -1em;
-}
-
-p span.i5{
-	padding-left: 6em;
 	text-indent: -1em;
 }
 
