@@ -50,7 +50,7 @@
 		<dc:source>https://archive.org/details/sophocleswitheng02soph</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Trachiniae</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Women_of_Trachis</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/sophocles_the-trachiniae_francis-storr</meta>
 		<dc:creator id="author">Sophocles</dc:creator>
 		<meta property="file-as" refines="#author">Sophocles</meta>
