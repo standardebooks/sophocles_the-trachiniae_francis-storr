@@ -56,7 +56,7 @@
 		<meta property="file-as" refines="#author">Sophocles</meta>
 		<meta property="alternate-script" refines="#author">Σοφοκλῆς</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Sophocles</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n79127755</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79127755</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Francis Storr</dc:contributor>
 		<meta property="file-as" refines="#translator">Storr, Francis</meta>
