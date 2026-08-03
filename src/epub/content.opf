@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/sophocles/the-trachiniae/francis-storr</dc:identifier>
 		<dc:date>2025-03-31T01:55:50Z</dc:date>
@@ -43,11 +43,11 @@
 		<meta property="schema:genre">Drama</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:description id="description">A woman unintentionally kills her demigod husband with a poisoned robe in a desperate attempt to reclaim his love.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A woman unintentionally kills her demigod husband with a poisoned robe in a desperate attempt to reclaim his love.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Trachiniae&lt;/i&gt; is one of &lt;a href="https://standardebooks.org/ebooks/sophocles"&gt;Sophocles’&lt;/a&gt; lesser-known plays, yet it remains a powerful exploration of fate, suffering, and human fallibility. Though its exact date of composition is uncertain, scholars often place it later in the playwright’s career, possibly between 450 and 425 BCE. The play’s title refers to the women of Trachis, the chorus who witness and reflect on the unfolding catastrophe.&lt;/p&gt;
 			&lt;p&gt;The play begins with Deianeira, wife of the absent hero Heracles, expressing her fears about his long absence and possible infidelity. Her anxieties are confirmed when she learns that Heracles has sacked a city to claim the young princess Iole as his concubine. Desperate to regain his love, Deianeira sends Heracles a robe anointed with what she believes is a love charm—a potion given to her years earlier by the dying centaur Nessus, who deceitfully claimed it would ensure Heracles’ fidelity. But unbeknownst to her, the potion is actually a deadly poison that sears Heracles’ flesh, subjecting him to unbearable agony.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://archive.org/details/sophocleswitheng02soph</dc:source>
 		<meta property="schema:wordCount">10437</meta>
