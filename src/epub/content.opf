@@ -43,7 +43,7 @@
 		<meta property="schema:genre">Drama</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:abstract>A woman unintentionally kills her demigod husband with a poisoned robe in a desperate attempt to reclaim his love.</dc:abstract>
+		<meta property="schema:abstract">A woman unintentionally kills her demigod husband with a poisoned robe in a desperate attempt to reclaim his love.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Trachiniae&lt;/i&gt; is one of &lt;a href="https://standardebooks.org/ebooks/sophocles"&gt;Sophocles’&lt;/a&gt; lesser-known plays, yet it remains a powerful exploration of fate, suffering, and human fallibility. Though its exact date of composition is uncertain, scholars often place it later in the playwright’s career, possibly between 450 and 425 BCE. The play’s title refers to the women of Trachis, the chorus who witness and reflect on the unfolding catastrophe.&lt;/p&gt;
 			&lt;p&gt;The play begins with Deianeira, wife of the absent hero Heracles, expressing her fears about his long absence and possible infidelity. Her anxieties are confirmed when she learns that Heracles has sacked a city to claim the young princess Iole as his concubine. Desperate to regain his love, Deianeira sends Heracles a robe anointed with what she believes is a love charm—a potion given to her years earlier by the dying centaur Nessus, who deceitfully claimed it would ensure Heracles’ fidelity. But unbeknownst to her, the potion is actually a deadly poison that sears Heracles’ flesh, subjecting him to unbearable agony.&lt;/p&gt;
